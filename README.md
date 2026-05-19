@@ -85,11 +85,7 @@ cp .env.example .env
 venv\Scripts\python.exe -m streamlit run main.py
 ```
 
-![image](https://github.com/user-attachments/assets/8cd4d9f2-f1b8-415a-a1b1-da03a1a6348e)
-![image](https://github.com/user-attachments/assets/a1732060-2640-4b0f-a631-c2a19e33b9cc)
-![image](https://github.com/user-attachments/assets/d5be5244-32b0-4c27-bcf7-f4ea1d26881d)
-![image](https://github.com/user-attachments/assets/20e3297e-1b6d-4d7b-9698-a20e347c5d60)
-![image](https://github.com/user-attachments/assets/a65aecbc-088c-4ddc-a448-77d2f9ba93f3)
+
 
 
 
