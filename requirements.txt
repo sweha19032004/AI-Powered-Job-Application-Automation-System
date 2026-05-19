@@ -1,0 +1,16 @@
+yaml
+torch
+torchaudio
+streamlit
+pandas
+numpy
+acclerate
+selenium
+beautifulsoup
+bitsandbyrtes
+sentence-transformers 
+PyMuPDF 
+python-docx 
+tensorflow
+huggingface_hub
+
