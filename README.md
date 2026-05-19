@@ -27,7 +27,7 @@ Skills
 Experience
 Preferred domain
 Target job role
-###🔍 Smart Job Scraping System
+###🔍 **Smart Job Scraping System**
 Scrapes job postings from online job portals
 Filters jobs based on:
 Job title
@@ -35,7 +35,7 @@ Location
 Experience level
 User preferences
 Collects real-time job data for analysis and application
-🤖 Automated Job Application Engine
+🤖 **Automated Job Application Engine**
 Automates browser actions using Selenium
 Automatically:
 Opens job portals
@@ -44,7 +44,7 @@ Uploads resumes
 Submits applications
 Reduces manual job application effort by over 80%
 Supports bulk job application workflows
-📊 AI-Based Job Matching
+📊** AI-Based Job Matching**
 Analyzes job descriptions using LLMs
 Matches user resumes with job requirements
 Identifies relevant opportunities with higher compatibility
@@ -75,14 +75,14 @@ Improves application targeting accuracy
 python -m venv venv
 
 # 3. Install dependencies
-pip install -r requirements.txt
+py -m pip install -r requirements.txt
 
 # 4. Setup environment variables
 cp .env.example .env
 # Fill in your LinkedIn credentials, API keys, etc.
 
 # 5. Run the app
-python main.py
+venv\Scripts\python.exe -m streamlit run main.py
 ```
 
 ![image](https://github.com/user-attachments/assets/8cd4d9f2-f1b8-415a-a1b1-da03a1a6348e)
