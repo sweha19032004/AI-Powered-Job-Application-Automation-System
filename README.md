@@ -88,6 +88,14 @@ cp .env.example .env
 venv\Scripts\python.exe -m streamlit run main.py
 ```
 
+<img width="1365" height="692" alt="home ai" src="https://github.com/user-attachments/assets/fd48d829-ec6a-4faa-b422-f3355fa16e23" />
+<img width="1365" height="725" alt="resume" src="https://github.com/user-attachments/assets/36bd11f5-6c17-49ba-9988-2a2b7a23dabe" />
+<img width="1361" height="729" alt="Job matcher" src="https://github.com/user-attachments/assets/2f9983d0-3a14-46dc-a80c-73c83eda8ecb" />
+<img width="977" height="587" alt="linked" src="https://github.com/user-attachments/assets/17488e62-5938-4e4d-856f-350f7492b4d5" />
+<img width="975" height="412" alt="job asstiant" src="https://github.com/user-attachments/assets/3f401d76-322a-4851-bd5e-517b90565744" />
+
+
+
 
 
 
