@@ -72,7 +72,7 @@ Improves application targeting accuracy
 ## 📦 Installation
 ```bash
 # 1. Clone the repository
-git clone git@github.com:AI-Powered-Job-Application-Automation-System.git
+git clone git@github.com:sweha19032004/AI-Powered-Job-Application-Automation-System.git
 
 # 2. Create virtual environment
 python -m venv venv
