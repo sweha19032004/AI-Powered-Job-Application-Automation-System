@@ -8,8 +8,8 @@ This project leverages **Large Language Models (LLMs)** and **agentic AI** to au
 1. **ATS-Friendly Resume Generation**
 2. **Automated LinkedIn Job Application Engine**
 
-By intelligently integrating user data, LLMs, and real-time job scraping, this system aims to **minimize manual effort**, **enhance resume targeting**, and **maximize job match accuracy**—all while increasing the likelihood of securing interviews.
-`
+By intelligently integrating user data, LLMs, and real-time job scraping, this system aims to **minimize manual effort**, **enhance resume targeting**, and **maximize job match accuracy**— all while increasing the likelihood of securing interviews.
+
 ---
 
 ## ✨ Features
@@ -27,6 +27,7 @@ Skills
 Experience
 Preferred domain
 Target job role
+
 ###🔍 **Smart Job Scraping System**
 Scrapes job postings from online job portals
 Filters jobs based on:
@@ -44,7 +45,8 @@ Uploads resumes
 Submits applications
 Reduces manual job application effort by over 80%
 Supports bulk job application workflows
-📊** AI-Based Job Matching**
+
+📊 **AI-Based Job Matching**
 Analyzes job descriptions using LLMs
 Matches user resumes with job requirements
 Identifies relevant opportunities with higher compatibility
@@ -69,7 +71,7 @@ Improves application targeting accuracy
 ## 📦 Installation
 ```bash
 # 1. Clone the repository
-
+git clone git@github.com:AI-Powered-Job-Application-Automation-System.git
 
 # 2. Create virtual environment
 python -m venv venv
