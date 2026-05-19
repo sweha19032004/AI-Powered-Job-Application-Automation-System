@@ -28,7 +28,7 @@ Experience
 Preferred domain
 Target job role
 
-###🔍 **Smart Job Scraping System**
+##🔍 **Smart Job Scraping System**
 Scrapes job postings from online job portals
 Filters jobs based on:
 Job title
@@ -36,7 +36,8 @@ Location
 Experience level
 User preferences
 Collects real-time job data for analysis and application
-🤖 **Automated Job Application Engine**
+
+##🤖 **Automated Job Application Engine**
 Automates browser actions using Selenium
 Automatically:
 Opens job portals
@@ -46,7 +47,7 @@ Submits applications
 Reduces manual job application effort by over 80%
 Supports bulk job application workflows
 
-📊 **AI-Based Job Matching**
+##📊 **AI-Based Job Matching**
 Analyzes job descriptions using LLMs
 Matches user resumes with job requirements
 Identifies relevant opportunities with higher compatibility
